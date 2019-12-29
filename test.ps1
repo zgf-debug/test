@@ -1,1 +1,1 @@
-whoami > $home\desktop\test.txt
+dir > $home\desktop\test.txt
