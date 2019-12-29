@@ -1,1 +1,1 @@
-ls $home > $home\desktop\test.txt
+nslookup google.com > $home\desktop\test.txt
