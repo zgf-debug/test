@@ -1,1 +1,1 @@
-﻿echo 1 > $home\desktop\test.txt
+whoami > $home\desktop\test.txt
