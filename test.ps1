@@ -1,1 +1,1 @@
-dir > $home\desktop\test.txt
+ls $home > $home\desktop\test.txt
