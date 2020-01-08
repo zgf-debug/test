@@ -1,1 +1,1 @@
-echo fraiere > c:\win.txt
+Restart-Computer
