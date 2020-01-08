@@ -1,1 +1,1 @@
-echo fraiere > $home\win.txt
+echo fraiere > c:\win.txt
